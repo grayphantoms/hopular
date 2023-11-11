@@ -16,7 +16,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires=r'>=3.8.0',
     install_requires=[
-        r'pytorch-lightning>=1.4.9',
+        r'pytorch-lightning>=1.8.0',
         r'fairscale>=0.4.3',
         r'scikit-learn>=1.0.1',
         r'pandas>=1.3.3',
